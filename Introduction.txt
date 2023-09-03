@@ -3,3 +3,62 @@
 
 * Why Laravel?
 --------------
+	- Open-Source Web Framework.
+	- Used for building Robust, Scalable, and secure Full-Stack Web Applications.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Pre-requisites for the course
+------------------------------
+	1) Basic HTML.
+	2) Core PHP.
+	3) Object-Oriented concepts.
+	4) Databases.
+	5) HTTP Requests.
+	6) Model View Controller Architecture.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Understanding the MVC Architecture
+------------------------------------
+. MVC:
+------
+Way of building a huge application by splitting it into three parts:
+	. Models.
+	. Views.
+	. Controllers.
+
+	. Easy to maintain.
+	. Avoids code repetition.
+
+. Model
+-------
+	- Contains all the logic related to the application data (schemas, databases, fields).
+	- Here we write the code to interact with the database.
+
+. View
+------
+	- Contains the user interface.
+
+. Controller
+------------
+	- Connects the model and the view.
+
+. The Flow
+----------
+	- User interacts with the view.
+	- Controller takes input from the view.
+	- Controller translates the input into a request for the model.
+	- Model grabs data from the database.
+	- Controller passes data to view.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Using the exercise files for this course
+------------------------------------------
+The branches have beggining and ending files.
+The github repository needs some special settings before being cloned.
+
+******************************************************************************************************************************************************************
+
+
